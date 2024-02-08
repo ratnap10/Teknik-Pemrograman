@@ -5,3 +5,7 @@ public class AnalisisDua {
         System.out.println(s);
     }
 }
+
+//outputnya everything
+//menggunakan operator kondisional ternary
+//karena i tidak lebih kecil dari 40 dan tidak lebih besar dari 50, maka hasilnya adalah else dan mengisi variabel s dengan everything
