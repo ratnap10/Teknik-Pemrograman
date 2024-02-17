@@ -7,3 +7,9 @@ public class Constants {
         paperWidth * CM_PER_INCH + " by " + paperHeight * CM_PER_INCH);
     }
 }
+
+/*
+Outputnya Paper size in centimeters: 21.59 by 27.94
+Perbedaannya ada di aksesibilitas, final double hanya bisa digunakan dalam main. Sedangkan public static final double bisa diakses
+di manapun dalam kelas tersebut.
+*/
