@@ -18,7 +18,7 @@ public class Soal1_DataTypes {
         System.out.print("\n");
         
         for (int i = 0; i < n; i++) {
-            if(T[i].compareTo(BigInteger.valueOf(Long.MAX_VALUE)) <= 0){
+            if(T[i].compareTo(BigInteger.valueOf(Long.MAX_VALUE)) <= 0){ //pengecekan tipe data
                 System.out.println(T[i] + " can be fitted in: ");
                 if (T[i].compareTo(BigInteger.valueOf(Byte.MAX_VALUE)) <= 0 && T[i].compareTo(BigInteger.valueOf(Byte.MIN_VALUE)) >= 0) {
                     System.out.println("* byte");
