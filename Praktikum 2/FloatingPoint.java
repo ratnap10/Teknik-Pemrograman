@@ -6,3 +6,7 @@ class FloatingPoint{
         System.out.println(nx);
     }
 }
+
+/*
+nx dibulatkan menjadi 93 dan casting dibutuhkan karena tipe data double tidak relevan setelah nx dikonversi Math.round().
+*/
