@@ -1,0 +1,22 @@
+Manager
+Artbee
+Ratna Puspitasari
+3100.00
+55.00
+9.7
+46000.00
+50000.00
+Sales
+Artsy
+Cils Cillarn
+25.00
+22.00
+1.9
+2.8
+Designer
+Canvartist
+Rarai
+400.00
+20.00
+2.1
+14

@@ -1,0 +1,7 @@
+store\Store.class
+store\AbstractStoreEmployee.class
+store\Employee.class
+store\StoreDriver.class
+store\Manager.class
+store\SalesAssociate.class
+store\DesignStrategist.class

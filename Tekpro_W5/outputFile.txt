@@ -1,0 +1,36 @@
+******************************************************
+Number of employees working as MANAGER are: 1
+******************************************************
+1. Manager Details:
+Store Details: Artbee
+Employee Name: Ratna Puspitasari
+Base Pay: $3100.0
+Number of Hours worked: 55.0hrs
+Payment Rate per hour: $9.7/hr
+Total Sales in store: $50000.0
+Sales done: $46000.0
+Percentage of sales done: 92.00%
+Gross Payment: $4178.5
+Remaining store revenue: $38433.26025
+******************************************************
+Number of employees working as SALES ASSOCIATES are: 1
+******************************************************
+Store Details: Artsy
+Employee Name: Cils Cillarn
+Base Pay: $25.0
+Number of Hours worked: 22.0hrs
+Payment Rate per hour: $1.9/hr
+Sales Rate: 280.0%
+Total commission: $2.5
+Gross Payment: $69.3
+******************************************************
+Number of employees working as DESIGN STRATEGIST are: 1
+******************************************************
+Store Details: Canvartist
+Employee Name: Rarai
+Base Pay: $400.0
+Number of Hours worked: 20.0hrs
+Payment Rate per hour: $2.1/hr
+Creative Skill: 100.0%
+Total Projects: 14.0
+Gross Payment: $462.0
